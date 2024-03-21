@@ -1,0 +1,19 @@
+table.th.td{
+    border:3px solid gray;
+    text-align: center;
+    padding : 10px;
+
+}
+table{
+    width: 100vw;
+    height: 80vh;
+}
+th{
+    background-color: blueviolet;
+    font-size: 20px;
+}
+td{
+    background-color: black;
+    color : white;
+    font-size: 25px;
+}
